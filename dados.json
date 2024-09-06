@@ -2,7 +2,7 @@
   "pessoa": {
     "nome": "João da Silva",
     "idade": 30,
-    "email": "felipe@example.com",
+    "email": "felipe2598@example.com",
     "telefone": {
       "tipo": "celular",
       "numero": "+55 11 91234-5678"
