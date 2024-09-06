@@ -1,0 +1,20 @@
+{
+  "pessoa": {
+    "nome": "João da Silva",
+    "idade": 30,
+    "email": "joao.silva@example.com",
+    "telefone": {
+      "tipo": "celular",
+      "numero": "+55 11 91234-5678"
+    },
+    "endereco": {
+      "rua": "Avenida das Flores",
+      "numero": 123,
+      "bairro": "Jardim Primavera",
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "cep": "01234-567"
+    },
+    "nacionalidade": "Brasileiro"
+  }
+}
